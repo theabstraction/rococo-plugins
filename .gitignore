@@ -46,8 +46,3 @@ Saved/
 DerivedDataCache/
 Binaries/
 out/
-*.rococo-events.h
-*.rococo-events.cpp
-sharpmake/generated/
-*.sxh.inl
-*_sxh.sxy
