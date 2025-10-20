@@ -3,11 +3,12 @@ Copyright(c) 2025 Mark Anthony Taylor. All rights reserved. Email: mark.anthony.
 This archive contains:
 	RococoGuiUltra - a subset of the rococo GUI library for Unreal Engine 5.6. The full library is found on GitHub: 
 		https://github.com/theabstraction/rococo
-
-	RococoGuiUltra.Test - a test project for RococoGuiUltra on the Unreal Engine that showcases its use to manage game options.
-
+	
 	Docs
 		1,2 - onboarding and other documentation to get started with the Rococo GUI
+
+A test project for RococoGuiUltra is available at:
+	https://github.com/theabstraction/rococo-plugins-test
 
 You need to be licensed to use my software through FAB and you must abide by FAB's licensing agreement.
 
