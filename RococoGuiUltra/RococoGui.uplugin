@@ -4,7 +4,7 @@
 	"VersionName": "1.0",
 	"FriendlyName": "RococoGuiUltra",
 	"Description": "Merger of Rococo plugins to create an Uber plugin for Rococo Gui",
-	"Category": "Rococo",
+	"Category": "Other",
 	"CreatedBy": "Mark Anthony Taylor",
 	"CreatedByURL": "",
 	"DocsURL": "",
@@ -17,9 +17,9 @@
 		{
 			"Name": "RococoGui",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": ["Win64"],
+			"FabURL": "com.epicgames.launcher://ue/Fab/product/a473ee40-6d5e-4ffd-9167-017ac9986a8b"
 		}
-	],
-	"PlatformAllowList": ["Win64"],
-	"FabURL": "com.epicgames.launcher://ue/Fab/product/a473ee40-6d5e-4ffd-9167-017ac9986a8b"
+	]
 }
